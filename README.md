@@ -298,3 +298,50 @@ O commit semântico possui os elementos estruturais abaixo (tipos), que informam
 
 <br>[🔝 Voltar ao topo](#padrões-de-commits-) <br>
 # Padrões Personalisados GitHub
+
+
+
+
+- Cusos que devo fazer
+- /***
+- PROGRAMAÇÃO WEB
+- Type script
+- next.js
+- react.js
+- vue.js
+- Angular
+- Node.js
+- Codnigther
+- *****/
+
+/****
+- PROGRAMAÇÃO MOBILE
+- Flutter
+- React Nactive
+*****/
+
+- Microservices com laravel
+- Domain Driven Design
+- CI/DI
+- Software Architecture Fundamentals
+- Continuos Integration
+- Patterns and Advanced Techiniques with Git and Github
+- RabbitMQ Course
+- Microsoft azure
+- Coubernets
+- Docker
+- Cloud
+- Pentester
+- Cyber Cecurity
+-
+-Sites para estudar web hacking...
+-tryHackme
+-hackthebox
+-vulnhub
+-pentestlab->treinamento online
+- virtual Hacking Labs-> reinamento online labs
+- DVWA->reinamento online e labs
+- Para fazer pentest e fazer dinheiro freeLancer
+- Hackerone
+- Intigriti
+- Bugcrowd
