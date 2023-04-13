@@ -297,3 +297,4 @@ O commit semântico possui os elementos estruturais abaixo (tipos), que informam
 </table>
 
 <br>[🔝 Voltar ao topo](#padrões-de-commits-) <br>
+# Padrões Personalisados GitHub
