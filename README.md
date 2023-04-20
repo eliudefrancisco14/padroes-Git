@@ -347,4 +347,4 @@ O commit semântico possui os elementos estruturais abaixo (tipos), que informam
 - Bugcrowd
 # Espero ter ajudado
 
-<img class="e2e-ImageModuleContent-img ImageModuleContent-mainImage-IG1" srcset="https://mir-s3-cdn-cf.behance.net/project_modules/disp/5eeea355389655.59822ff824b72.gif 600w, https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5eeea355389655.59822ff824b72.gif 800w" style="" sizes="(max-width: 800px) 100vw, 800px" alt="Solitary Saunter" shouldblockrightclickevents="false">
+<img src="https://i.gifer.com/7SIm.gif">
