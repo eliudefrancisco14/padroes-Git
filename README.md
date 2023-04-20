@@ -347,4 +347,4 @@ O commit semântico possui os elementos estruturais abaixo (tipos), que informam
 - Bugcrowd
 # Espero ter ajudado
 
-<img src="https://i.gifer.com/7SIm.gif">
+<img src="cubo.gif">
