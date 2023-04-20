@@ -344,4 +344,4 @@ O commit semântico possui os elementos estruturais abaixo (tipos), que informam
 - Para fazer pentest e fazer dinheiro freeLancer
 - Hackerone
 - Intigriti
-- Bugcrowd
+- Bugcrowd# Espero ter ajudado
